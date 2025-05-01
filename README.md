@@ -18,3 +18,5 @@ The script begins by importing the necessary libraries and defining the summariz
 
 
 OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/a0bf07fc-d3d1-4f4b-a118-1323f632825b)
